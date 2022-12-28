@@ -1,6 +1,6 @@
-# ScaLabs Documentation
+# forDem Documentation - WIP
 
-This documentation contains a general guide of how we work at Scalabs. Is serves as process management & governance documentation, as a set of standards to work with other organizations, and onboarding material for new people.
+This documentation contains a general guide of how we work at forDem. Is serves as process management & governance documentation, as a set of standards to work with other organizations, and onboarding material for new people.
 
 ## Guides
 
