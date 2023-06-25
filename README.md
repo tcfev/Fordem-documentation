@@ -16,24 +16,24 @@ and then use either Semver for versioning, or use a six digit number starting fr
 <h1 dir="rtl" align="left">نقش‌ها</h1>
 <ul>
     <li>
-        <p dir="rtl" align="left">تیم برنامه نویسی (Developing Team)</p>
+        <p dir="rtl" align="left">تیم برنامه نویسی</p>
         <ul>
             <li>
-                <p dir="rtl" align="left">برنامه‌نویس پایگاه داده (Database Developer)</p>
+                <p dir="rtl" align="left">برنامه‌نویس پایگاه داده</p>
             </li>
             <li>
-                <p dir="rtl" align="left">برنامه‌نویس بک‌اند (Backend Developer)</p>
+                <p dir="rtl" align="left">برنامه‌نویس بک‌اند</p>
             </li>
             <li>
-                <p dir="rtl" align="left">برنامه‌نویس فرانت‌اند (Frontend Developer)</p>
+                <p dir="rtl" align="left">برنامه‌نویس فرانت‌اند</p>
             </li>
             <li>
-                <p dir="rtl" align="left">برنامه‌نویس فول استک (Fullstack Developer)</p>
+                <p dir="rtl" align="left">برنامه‌نویس فول استک</p>
             </li>
         </ul>
     </li>
     <li>
-        <p dir="rtl" align="left">تیم برنامه ریزی (Management Team)</p>
+        <p dir="rtl" align="left">تیم برنامه ریزی</p>
         <ul>
             <li>
                 <p dir="rtl" align="left">برنامه ریز پروژه</p>
@@ -50,10 +50,10 @@ and then use either Semver for versioning, or use a six digit number starting fr
         </ul>
     </li>
     <li>
-        <p dir="rtl" align="left">تیم طراحی (Design Team)</p>
+        <p dir="rtl" align="left">تیم طراحی</p>
         <ul>
             <li>
-                <p dir="rtl" align="left">طراح ساختار (A)</p>
+                <p dir="rtl" align="left">طراح ساختار</p>
             </li>
             <li>
                 <p dir="rtl" align="left">طراح ماکت</p>
