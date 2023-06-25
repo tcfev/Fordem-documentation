@@ -15,15 +15,15 @@ and then use either Semver for versioning, or use a six digit number starting fr
 
 # <h1>نقش‌ها</h1>
 <ul>
-    <li>
+    <ol>
         <p dir="rtl" align="right">برنامه‌نویس بک‌اند</p>
-    </li>
-    <li>
+    </ol>
+    <ol>
         <p dir="rtl" align="right">برنامه‌نویس فرانت‌اند</p>
-    </li>
-    <li>
+    </ol>
+    <ol>
         <p dir="rtl" align="right">برنامه‌نویس فول استک</p>
-    </li>
+    </ol>
 </ul>
 
   - ... //TODO: @Zabuzara
