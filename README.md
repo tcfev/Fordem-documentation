@@ -13,7 +13,7 @@ and then use either Semver for versioning, or use a six digit number starting fr
 - in case you are working on a bugfix name your branch like this: bugfix-BugNumber  
 - if you are working on a feature call your branch: feature-Name-Of-The-Branch
 
-# نقش‌ها
+<h1 dir="rtl" align="left">نقش‌ها</h1>
 <ol>
     <li>
         <p dir="rtl" align="left">برنامه‌نویس بک‌اند</p>
