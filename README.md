@@ -32,6 +32,37 @@ and then use either Semver for versioning, or use a six digit number starting fr
             </li>
         </ul>
     </li>
+    <li>
+        <p dir="rtl" align="left">تیم برنامه ریزی (Management Team)</p>
+        <ul>
+            <li>
+                <p dir="rtl" align="left">برنامه ریز پروژه</p>
+            </li>
+            <li>
+                <p dir="rtl" align="left">هماهنگ کننده تیم</p>
+            </li>
+            <li>
+                <p dir="rtl" align="left">برنامه ریز زمان</p>
+            </li>
+            <li>
+                <p dir="rtl" align="left">محقق ریسک پذیری</p>
+            </li>
+        </ul>
+    </li>
+    <li>
+        <p dir="rtl" align="left">تیم طراحی (Design Team)</p>
+        <ul>
+            <li>
+                <p dir="rtl" align="left">طراح ساختار (A)</p>
+            </li>
+            <li>
+                <p dir="rtl" align="left">طراح ماکت</p>
+            </li>
+            <li>
+                <p dir="rtl" align="left">طراح نمودار</p>
+            </li>
+        </ul>
+    </li>
 </ul>
 
   - ... //TODO: @Zabuzara
