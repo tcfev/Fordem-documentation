@@ -17,11 +17,16 @@ and then use either Semver for versioning, or use a six digit number starting fr
   - برنامه‌نویس بک‌اند
   - برنامه‌نویس فرانت‌اند
   - برنامه‌نویس فول استک
+# <h3>نقش‌ها</h3>
 <ul>
     <li>
-        <p dir="rtl" align="left">- برنامه‌نویس بک‌اند</p>
-        <p dir="rtl" align="left">- برنامه‌نویس فرانت‌اند</p>
-        <p dir="rtl" align="left">- برنامه‌نویس فول استک</p>
+-        <p dir="rtl" align="left">برنامه‌نویس بک‌اند</p>
+    </li>
+    <li>
+-        <p dir="rtl" align="left">برنامه‌نویس فرانت‌اند</p>
+    </li>
+    <li>
+-        <p dir="rtl" align="left">برنامه‌نویس فول استک</p>
     </li>
 </ul>
 
