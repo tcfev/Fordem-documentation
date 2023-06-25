@@ -14,16 +14,22 @@ and then use either Semver for versioning, or use a six digit number starting fr
 - if you are working on a feature call your branch: feature-Name-Of-The-Branch
 
 <h1 dir="rtl" align="left">نقش‌ها</h1>
-<ol>
+<ul>
     <li>
-        <p dir="rtl" align="left">برنامه‌نویس بک‌اند</p>
+        <p>تیم برنامه نویسی</p>
+        <ul>
+            <li>
+                <p dir="rtl" align="left">برنامه‌نویس بک‌اند</p>
+                
+            </li>
+            <li>
+                <p dir="rtl" align="left">برنامه‌نویس فرانت‌اند</p>
+            </li>
+            <li>
+                <p dir="rtl" align="left">برنامه‌نویس فول استک</p>
+            </li>
+        </ul>
     </li>
-    <li>
-        <p dir="rtl" align="left">برنامه‌نویس فرانت‌اند</p>
-    </li>
-    <li>
-        <p dir="rtl" align="left">برنامه‌نویس فول استک</p>
-    </li>
-</ol>
+</ul>
 
   - ... //TODO: @Zabuzara
