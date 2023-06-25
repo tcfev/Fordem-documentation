@@ -64,5 +64,3 @@ and then use either Semver for versioning, or use a six digit number starting fr
         </ul>
     </li>
 </ul>
-
-  - ... //TODO: @Zabuzara
