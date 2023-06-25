@@ -24,15 +24,15 @@ and then use either Semver for versioning, or use a six digit number starting fr
             </li>
             <li>
                 - [ ]
-                <p dir="rtl" align="left">برنامه‌نویس بک‌اند</p>
+                <span dir="rtl" align="left">برنامه‌نویس بک‌اند</span>
             </li>
             <li>
                 - [x]
-                <p dir="rtl" align="left">برنامه‌نویس فرانت‌اند</p>
+                <span dir="rtl" align="left">برنامه‌نویس فرانت‌اند</span>
             </li>
             <li>
                 - [ ]
-                <p dir="rtl" align="left">برنامه‌نویس فول استک</p>
+                <span dir="rtl" align="left">برنامه‌نویس فول استک</span>
             </li>
         </ul>
     </li>
@@ -41,19 +41,19 @@ and then use either Semver for versioning, or use a six digit number starting fr
         <ul>
             <li>
                 - [ ]
-                <p dir="rtl" align="left">برنامه ریز پروژه</p>
+                <span dir="rtl" align="left">برنامه ریز پروژه</span>
             </li>
             <li>
                 - [ ]
-                <p dir="rtl" align="left">هماهنگ کننده تیم</p>
+                <span dir="rtl" align="left">هماهنگ کننده تیم</span>
             </li>
             <li>
                 - [ ]
-                <p dir="rtl" align="left">برنامه ریز زمان</p>
+                <span dir="rtl" align="left">برنامه ریز زمان</span>
             </li>
             <li>
                 - [ ]
-                <p dir="rtl" align="left">محقق ریسک پذیری</p>
+                <span dir="rtl" align="left">محقق ریسک پذیری</span>
             </li>
         </ul>
     </li>
@@ -62,15 +62,15 @@ and then use either Semver for versioning, or use a six digit number starting fr
         <ul>
             <li>
                 - [ ]
-                <p dir="rtl" align="left">طراح ساختار</p>
+                <span dir="rtl" align="left">طراح ساختار</span>
             </li>
             <li>
                 - [ ]
-                <p dir="rtl" align="left">طراح ماکت</p>
+                <span dir="rtl" align="left">طراح ماکت</span>
             </li>
             <li>
                 - [ ]
-                <p dir="rtl" align="left">طراح نمودار</p>
+                <span dir="rtl" align="left">طراح نمودار</span>
             </li>
         </ul>
     </li>
