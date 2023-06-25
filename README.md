@@ -15,7 +15,7 @@ and then use either Semver for versioning, or use a six digit number starting fr
 
 <h1 dir="rtl" align="left">نقش‌ها</h1>
 <ul>
-    <li>
+    <li>تیم برنامه نویسی
         <ul>
             <li>
                 <p dir="rtl" align="left">برنامه‌نویس بک‌اند</p>
