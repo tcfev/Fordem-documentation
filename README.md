@@ -19,7 +19,7 @@ and then use either Semver for versioning, or use a six digit number starting fr
         <p dir="rtl" align="left">تیم برنامه نویسی</p>
         <ul>
             <li>
-                <p dir="rtl" align="left">- [ ] برنامه‌نویس پایگاه داده</p>
+                - [ ]<span dir="rtl" align="left">برنامه‌نویس پایگاه داده</span>
             </li>
             <li>
                 <p dir="rtl" align="left">برنامه‌نویس بک‌اند</p>
