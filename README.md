@@ -19,11 +19,11 @@ and then use either Semver for versioning, or use a six digit number starting fr
         <p dir="rtl" align="left">تیم برنامه نویسی</p>
         <ul>
             <li>
-                - [ ]
+                - [x]
                 <span dir="rtl" align="left">برنامه‌نویس پایگاه داده</span>
             </li>
             <li>
-                - [ ]
+                - [x]
                 <span dir="rtl" align="left">برنامه‌نویس بک‌اند</span>
             </li>
             <li>
@@ -31,7 +31,7 @@ and then use either Semver for versioning, or use a six digit number starting fr
                 <span dir="rtl" align="left">برنامه‌نویس فرانت‌اند</span>
             </li>
             <li>
-                - [ ]
+                - [x]
                 <span dir="rtl" align="left">برنامه‌نویس فول استک</span>
             </li>
         </ul>
