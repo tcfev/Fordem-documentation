@@ -23,12 +23,15 @@ and then use either Semver for versioning, or use a six digit number starting fr
                 <span dir="rtl" align="left">برنامه‌نویس پایگاه داده</span>
             </li>
             <li>
+                - [ ]
                 <p dir="rtl" align="left">برنامه‌نویس بک‌اند</p>
             </li>
             <li>
+                - [x]
                 <p dir="rtl" align="left">برنامه‌نویس فرانت‌اند</p>
             </li>
             <li>
+                - [ ]
                 <p dir="rtl" align="left">برنامه‌نویس فول استک</p>
             </li>
         </ul>
@@ -37,15 +40,19 @@ and then use either Semver for versioning, or use a six digit number starting fr
         <p dir="rtl" align="left">تیم برنامه ریزی</p>
         <ul>
             <li>
+                - [ ]
                 <p dir="rtl" align="left">برنامه ریز پروژه</p>
             </li>
             <li>
+                - [ ]
                 <p dir="rtl" align="left">هماهنگ کننده تیم</p>
             </li>
             <li>
+                - [ ]
                 <p dir="rtl" align="left">برنامه ریز زمان</p>
             </li>
             <li>
+                - [ ]
                 <p dir="rtl" align="left">محقق ریسک پذیری</p>
             </li>
         </ul>
@@ -54,12 +61,15 @@ and then use either Semver for versioning, or use a six digit number starting fr
         <p dir="rtl" align="left">تیم طراحی</p>
         <ul>
             <li>
+                - [ ]
                 <p dir="rtl" align="left">طراح ساختار</p>
             </li>
             <li>
+                - [ ]
                 <p dir="rtl" align="left">طراح ماکت</p>
             </li>
             <li>
+                - [ ]
                 <p dir="rtl" align="left">طراح نمودار</p>
             </li>
         </ul>
