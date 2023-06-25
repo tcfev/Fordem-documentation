@@ -16,19 +16,19 @@ and then use either Semver for versioning, or use a six digit number starting fr
 <h1 dir="rtl" align="left">نقش‌ها</h1>
 <ul>
     <li>
-        <p dir="rtl" align="left">تیم برنامه نویسی</p>
+        <p dir="rtl" align="left">تیم برنامه نویسی (Developing Team)</p>
         <ul>
             <li>
-                <p dir="rtl" align="left">برنامه‌نویس پایگاه داده</p>
+                <p dir="rtl" align="left">برنامه‌نویس پایگاه داده (Database Developer)</p>
             </li>
             <li>
-                <p dir="rtl" align="left">برنامه‌نویس بک‌اند</p>
+                <p dir="rtl" align="left">برنامه‌نویس بک‌اند (Backend Developer)</p>
             </li>
             <li>
-                <p dir="rtl" align="left">برنامه‌نویس فرانت‌اند</p>
+                <p dir="rtl" align="left">برنامه‌نویس فرانت‌اند (Frontend Developer)</p>
             </li>
             <li>
-                <p dir="rtl" align="left">برنامه‌نویس فول استک</p>
+                <p dir="rtl" align="left">برنامه‌نویس فول استک (Fullstack Developer)</p>
             </li>
         </ul>
     </li>
